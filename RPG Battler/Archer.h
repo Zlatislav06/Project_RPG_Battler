@@ -1,0 +1,13 @@
+#pragma once
+#include "PlayerCharacter.h"
+class Archer :public PlayerCharacter
+{
+public:
+	Archer(string n, string un);
+	Archer(string n, string un, int h, int max, int d, int l);
+	int Attack(PlayerCharacter& P) override;
+	int Speshal(int a) override;
+	void TakeDamage(PlayerCharacter& P, int attack) override;
+	void setHeroType(HeroType ht) override;
+};
+
