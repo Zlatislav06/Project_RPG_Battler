@@ -13,7 +13,7 @@
 * **Управление на паметта:** Динамично заделяне на обекти, предотвратяване на memory leaks (работа с указатели / smart pointers).
 * **Структури от данни:** Използване на `std::vector` за управление на инвентар или вълни от врагове.
 
-## 💻 Как изглежда играта (Скрийншот)
+## 💻 Как изглежда играта (Скрийншоти)
 <img width="1358" height="277" alt="image" src="https://github.com/user-attachments/assets/2e7e38ad-a682-4f84-8871-438ebac0ef87" />
 <img width="1362" height="146" alt="image" src="https://github.com/user-attachments/assets/953e9788-a3ea-47dd-9175-c619975f7741" />
 <img width="1360" height="237" alt="image" src="https://github.com/user-attachments/assets/61f5d91a-1811-4a11-a7b6-7929a3c6809e" />
